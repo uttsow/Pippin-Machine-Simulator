@@ -8,12 +8,10 @@ Parts of the program and GUI were written by Professor Lander.
 
 # To run:
 
-1. Place the files in the correct project files (project and project view)
+1. Run Pippin_Run from the projectview file.
 
-2. Run Pippin_Run from the projectview file.
+2. Use the example PASM files and load it into the program and compile it into executables 
 
-3. Use the example PASM files and load it into the program and compile it into executables 
-
-4. Load the executable file into the program and either click "Step" or "Execute"
+3. Load the executable file into the program and either click "Step" or "Execute"
 
 
